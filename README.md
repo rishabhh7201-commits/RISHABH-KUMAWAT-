@@ -1,5 +1,7 @@
 # RISHABH-KUMAWAT-
- This is my first Git repository 
- <br>
-author - RISHABH KUMAWAT 
+
+This is my first Git repository 
+<br>
+Author - RISHABH (apnacollege)
+
 
